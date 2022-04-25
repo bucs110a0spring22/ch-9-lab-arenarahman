@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ My program has files for the class Rectangle and the class Surface. These clasess represent an object's appearance and location in space. A surface object was built using these classes. Also, a string that contains the x, y, width and height of the rectangle is returned. The internal rectangle is also returned. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
